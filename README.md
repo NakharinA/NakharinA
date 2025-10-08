@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nakharin Aroonyadaj</h1>
-<h3 align="center">Backend - Developer Who be fatty otaku</h3>
+<h3 align="center">Backend developer by day, fatty otaku by night</h3>
 
 - 🔭 I’m currently working on **Golang - *beep* *beep***
 
